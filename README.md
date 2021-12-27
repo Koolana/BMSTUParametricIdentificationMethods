@@ -20,3 +20,4 @@
 |Студент / группа |Задание 1|Задание 2|Задание 3-4|Задание 5|Задание 6|Задание 7|Задание 8|
 |-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[Тихонова Дарья](https://github.com/MissDarya)<br/>Группа: ФН12-33М||||<center>:heavy_check_mark:</center>|<center>:heavy_check_mark:</center>|<center>:heavy_check_mark:</center>|<center>:heavy_check_mark:</center>|
+|[Шутова Ксения](https://github.com/Renianida)<br/>Группа: ФН12-33М|||||||<center>:heavy_check_mark:</center>|
